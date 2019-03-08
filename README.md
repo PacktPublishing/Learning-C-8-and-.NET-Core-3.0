@@ -21,30 +21,29 @@ be able to develop your own application using .NET Core.
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
-●	Little prior understanding on what is programming or programming languages.
-●	Familiarity with Git and GitHub for source control
+●	Little prior understanding on what is programming or programming languages<br/>
+●	Familiarity with Git and GitHub for source control<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements:
-For successful completion of this course, students will require the computer systems with at least the following:
-● OS: Windows 7, OS X Yosemite
-● Processor: 1.6 GHz
-● Memory:  2 GB
-● Storage: 1 GB
+Minimum Hardware Requirements:<br/>
+For successful completion of this course, students will require the computer systems with at least the following:<br/>
+● OS: Windows 7, OS X Yosemite<br/>
+● Processor: 1.6 GHz<br/>
+● Memory:  2 GB<br/>
+● Storage: 1 GB<br/>
 
-Recommended Hardware Requirements:
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-● OS: Windows 10
-● Processor: 2.6 GHz
-● Memory: 4 GB
-● Storage: 5 GB
+Recommended Hardware Requirements:<br/>
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<br/>
+● OS: Windows 10<br/>
+● Processor: 2.6 GHz<br/>
+● Memory: 4 GB<br/>
+● Storage: 5 GB<br/>
 
-Software Requirements:
-● Operating system: Windows, Mac or Linux
-● Visual Studio Code 1.28+
-● .NET Core 3
+Software Requirements:<br/>
+● Operating system: Windows, Mac or Linux<br/>
+● Visual Studio Code 1.28+<br/>
+● .NET Core 3<br/>
 
 
 
